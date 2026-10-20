@@ -1,0 +1,9 @@
+opencv-python>=4.9
+numpy>=1.26
+pandas>=2.2
+streamlit>=1.36
+Pillow>=10.0
+matplotlib>=3.8
+# Optional deep-learning backend (uncomment to enable):
+# ultralytics>=8.2
+# torch>=2.2

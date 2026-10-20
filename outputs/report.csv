@@ -1,0 +1,7 @@
+file,num_defects,defect_area_px,total_pixels,defect_percent,severity,image_size
+clean.png,0,0,307200,0.0,None,640x480
+sample_1.png,7,3098,307200,1.008,Medium,640x480
+sample_2.png,4,3073,307200,1.0,Medium,640x480
+sample_3.png,5,1171,307200,0.381,Medium,640x480
+sample_4.png,2,3489,307200,1.136,Medium,640x480
+sample_5.png,8,4038,307200,1.314,Medium,640x480
